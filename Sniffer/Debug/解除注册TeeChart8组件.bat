@@ -1,0 +1,1 @@
+regsvr32 /u TeeChart8.ocx

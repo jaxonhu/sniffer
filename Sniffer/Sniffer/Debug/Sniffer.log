@@ -1,0 +1,14 @@
+﻿生成启动时间为 2015/4/25 0:49:50。
+     1>项目“C:\Users\hujiaxuan\Desktop\基于WinPcap的MFC抓包程序\源码\Sniffer\Sniffer\Sniffer.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         G:\Visual Studio2013\VC\bin\CL.exe /c /IC:\WpdPack\Include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D WPCAP /D HAVE_REMOTE /D WPCAP /D HAVE_REMOTE /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Sniffer.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Packet.lib wpcap.lib stdafx.cpp
+         stdafx.cpp
+         wpcap.lib
+     1>c1xx : fatal error C1083: 无法打开源文件: “wpcap.lib”: No such file or directory
+         Packet.lib
+     1>c1xx : fatal error C1083: 无法打开源文件: “Packet.lib”: No such file or directory
+     1>已完成生成项目“C:\Users\hujiaxuan\Desktop\基于WinPcap的MFC抓包程序\源码\Sniffer\Sniffer\Sniffer.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.90
